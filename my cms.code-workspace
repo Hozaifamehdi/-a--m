@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../my cms"
+		},
+		{
+			"path": "../../First_cms_project/CMS_TEMPLATE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hetlifynewwebsite"
+	}
+}
